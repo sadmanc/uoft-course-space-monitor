@@ -1,4 +1,4 @@
-# Timetable Seat Watch
+# UofT Course Space Monitor
 
 A small Python monitor for University of Toronto Timetable Builder course sections. It checks the Timetable Builder API for enrolment, capacity, waitlist size, and waitlist eligibility. In watch mode it reports changes in the terminal and can send optional alerts through a private ntfy topic.
 
